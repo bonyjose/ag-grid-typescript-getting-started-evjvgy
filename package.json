@@ -4,6 +4,6 @@
   "private": true,
   "dependencies": {
     "ag-grid-community": "32.0.1",
-    "ag-grid-enterprise": "21.0.1"
+    "ag-grid-enterprise": "32.0.1"
   }
 }
